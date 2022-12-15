@@ -10,4 +10,5 @@ Current implementations -
 Future implementations -
 * ELMo embedded Language models
 * ELMo-emo (novel approach proposed @ Georgia Tech CS 7650 by **Gautham Gururajan**, Vishal H., Vasistha S.)
-  * YouTube : Here![https://www.youtube.com/watch?v=RIFKQyR89fc&list=LLdreEr0vSULxtOM9lm--HEA&index=2]  
+  * YouTube : [Here!](https://www.youtube.com/watch?v=RIFKQyR89fc&list=LLdreEr0vSULxtOM9lm--HEA&index=2)
+  * Findings : [Here!](https://drive.google.com/file/d/1xxGi5KVDQcqjIo3AplrawKDitJAW8t6E/view?usp=share_link)
