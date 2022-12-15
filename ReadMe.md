@@ -5,8 +5,9 @@ The goal of this Natural Language project is to perform sarcasm detection on soc
 Will be updated with different custom models soon!
 
 Current implementations -
-1. DistilBERT (Hugging Face) 
+* DistilBERT (Hugging Face) 
 
 Future implementations -
-1. ELMo embedded Language models
-2. ELMo-emo (novel approach proposed @ Georgia Tech CS 7650 by **Gautham Gururajan**, Vishal H., Vasistha S.)
+* ELMo embedded Language models
+* ELMo-emo (novel approach proposed @ Georgia Tech CS 7650 by **Gautham Gururajan**, Vishal H., Vasistha S.)
+  * YouTube : Here![https://www.youtube.com/watch?v=RIFKQyR89fc&list=LLdreEr0vSULxtOM9lm--HEA&index=2]  
