@@ -1,7 +1,7 @@
 Will be updated with different custom models soon!
 
 Current implementations -
-1. DistilBERT
+1. DistilBERT (Jupyter NB)
 
 Future implementations -
 1. ELMo embedded Language models
